@@ -37,10 +37,13 @@ I am a passionate self-taught programmer from Saudi Arbia.
  <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Noah&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dark-Noah&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
- 
+**Stats:**  
+
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DarkgNoah&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dark-Noah&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Noah&theme=tokyonight&hide=batchfile">
+
+
  
 
 
