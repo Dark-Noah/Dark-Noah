@@ -1,5 +1,5 @@
-### Hi there, I'm Dark-Noah! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dark-Noah-ops-cyber" alt="sujal-ops-cyber" /> </p>
+### Hi there, I'm Revou-js! 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Revou-js-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
 ![Discord](https://discord.c99.nl/widget/theme-2/594600438960095262.png)
 
@@ -9,11 +9,11 @@
 <a href="https://twitter.com/revou9">
   <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
- <a href="https://github.com/Dark-Noah">
+ <a href="https://github.com/Revou-js">
   <img align="left" alt="Darkboy Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/revou5/">
-  <img align="left" alt="DarkBoy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Revou-js's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -24,7 +24,7 @@
  
 <br />
 
-### Hey i'm DarkNoah Gald to see you here! &nbsp;
+### Hey i'm Revou-js Gald to see you here! &nbsp;
 
 I am a passionate self-taught programmer from Saudi Arbia.
 - 🌱 I’m currently learning EJS
@@ -40,8 +40,8 @@ I am a passionate self-taught programmer from Saudi Arbia.
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DarkgNoah&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dark-Noah&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Noah&theme=tokyonight&hide=batchfile">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Revou-js&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Revou-js&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revou-js&theme=tokyonight&hide=batchfile">
 
 
  
