@@ -27,7 +27,7 @@
 ### Hey i'm DarkNoah Gald to see you here! &nbsp;
 
 I am a passionate self-taught programmer from Saudi Arbia.
- - 🌱 I’m currently learning EJS
+- 🌱 I’m currently learning EJS
 - 💬 Ask me about anything [here](https://discord.gg/DPCZWya)
 - 📫 Add Me On Discord? Revou#7162
 - 🥅 2021 Goals: Watch more por*
